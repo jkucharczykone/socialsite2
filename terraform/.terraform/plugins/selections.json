@@ -1,0 +1,6 @@
+{
+  "registry.terraform.io/heroku/heroku": {
+    "hash": "h1:Y+6UjGQ1s38+PaChKtnqSX775cO9GAvy9cyWDGyu72A=",
+    "version": "3.0.1"
+  }
+}
